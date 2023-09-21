@@ -14,3 +14,11 @@
 var myVar = "Hey peeps, Welcome to Animal World!";
 ```
 
+- [x] Create homepage layout.
+- [x] Add information about zoo exhibits.
+- [ ] Upload animal photos.
+- [ ] Write an "About Us" section.
+- [x] Design a logo for the webpage.
+- [x] Set up contact page.
+- [x] Test website on mobile devices.
+- [ ] Publish the zoo webpage.
