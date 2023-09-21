@@ -10,3 +10,7 @@
 
 ###### Upcoming Zoo Events
 
+``` javascript
+var myVar = "Hey peeps, Welcome to Animal World!";
+```
+
